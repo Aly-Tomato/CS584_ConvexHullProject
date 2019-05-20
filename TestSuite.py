@@ -4,7 +4,7 @@ import Grahams
 import time
 
 ROUND = 4 #round to ith of second
-RANGE = 1000 #total number of tests to run
+RANGE = 300 #total number of tests to run
 INIT_SIZE = 30 #initial size of list
 
 def print_test_name(test,distr):
@@ -25,7 +25,7 @@ def do_test(test,data_set):
     return t-t1
 
 def main():
-    tests = ["Jarvis Algorithm","Graham Scan"]
+    tests = ["Jarvis Algorithm ", "Graham Scan "]
     test_type = "Random"
     for test_name in tests:
      print_test_name(test_name, test_type)
@@ -41,8 +41,8 @@ def main():
         print_test_name(test_name, test_type)
         size = INIT_SIZE
         for i in range(0,RANGE):
-            ticks = do_test(test_name+test_type, Utils.make_minhull_list(size))
-            Utils.write_test_results([test_name, size,round(ticks,ROUND)])
+            ticks = do_test(test_name, Utils.make_minhull_list(size))
+            Utils.write_test_results([test_name+test_type, size,round(ticks,ROUND)])
             size += 10
         print(f"{test_name} complete!\n")
 
@@ -50,7 +50,7 @@ def main():
     for test_name in tests:
         print_test_name(test_name, test_type)
         size = INIT_SIZE
-        for i in range(0,RANGE-500):
+        for i in range(0,RANGE):
             ticks = do_test(test_name, Utils.make_maxhull_list(size))
             Utils.write_test_results([test_name+test_type, size,round(ticks,ROUND)])
             size += 10

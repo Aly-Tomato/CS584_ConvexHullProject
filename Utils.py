@@ -19,7 +19,7 @@ def write_csv(list):
             writer.writerow([blob.x, blob.y])
 
 def write_test_results(results):
-    with open('test_results.csv', "a") as f:
+    with open(f'test_results.csv', "a") as f:
         writer = csv.writer(f, delimiter=',')
         writer.writerow(results)
     return

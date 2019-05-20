@@ -25,6 +25,8 @@ def do_Grahams(point_list):
     hull_stack.append(lowest_p)
     sorted_points = sort_polar(lowest_p, point_list)
     for p in sorted_points:
+        if p == lowest_p:
+            continue
         counter = len(hull_stack)
         while counter > 1 and Utils.is_left_turn(hull_stack[counter-2], hull_stack[counter-1],p):
             hull_stack.pop()
