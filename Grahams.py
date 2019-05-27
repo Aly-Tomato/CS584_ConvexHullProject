@@ -20,6 +20,11 @@ def sort_polar(p0, point_list):
 
 
 def do_Grahams(point_list):
+    """
+    Graham Scan method to solve Convex Hull
+    :param point_list: set of Utils.Points
+    :return: hull_list: list of Utils.Points on hull
+    """
     hull_stack = []
     lowest_p = Utils.get_lowest_point(point_list)
     hull_stack.append(lowest_p)

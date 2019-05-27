@@ -48,6 +48,9 @@ def distance(origin,p):
     return AB
 
 def is_left_turn(hull, p1, p2):
+    """
+    :return: True if p2 is left of line segment (hull,p1)
+    """
     m = ((p2.y-hull.y) * (p1.x - hull.x))
     n = ((p1.y - hull.y) * (p2.x - hull.x))
     if(m == n):
