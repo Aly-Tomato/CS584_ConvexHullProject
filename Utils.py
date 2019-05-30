@@ -4,31 +4,36 @@ import math
 from math import pi
 
 class Point:
-    def __init__(self, x, y, color=None):
+    def __init__(self, x, y):
         self.x = x
         self.y = y
-        if color is None:
-            self.color = 0
-        else:
-            self.color = color
-            
-def write_csv(list):
-    with open('test.txt', mode='wb') as file:
-        writer = csv.writer(file, delimiter=',')
-        for blob in list:
-            writer.writerow([blob.x, blob.y])
 
 def write_test_results(results):
+    """
+    appends test results to .csv file
+    :param results: list of test results
+    :return: None
+    """
     with open(f'test_results.csv', "a") as f:
         writer = csv.writer(f, delimiter=',')
         writer.writerow(results)
     return
 
 def create_point(low,high):
+    """
+    Randomly generate values to create Point object
+    :param low: lowest possible value
+    :param high: highest possible value
+    :return: Point object
+    """
     range = high-low
     return Point(low+random.random()*range,low+random.random()*range)
 
 def print_pretty(list):
+    """
+    :param list: list of points to print
+    :return: None
+    """
     for point in list:
         print(f"({point.x},{point.y})")
 
@@ -107,12 +112,13 @@ def make_maxhull_list(length, center=(0,0), radius=500):
         list.append(Point(x,y))
     return list
 
-def slope(p1, p2):
-    return((p2.y - p1.y) / (p2.x - p1.x))
-
 def make_minhull_list(length, center=(0,0),height=500):
     """
     My hacky way in create a triangle with points within in
+    :param length: size of list to create
+    :param center: center coordinate to build right angle
+    :param height: height of triangle to create
+    :return:
     """
     center_x, center_y = center
     a = Point(center_x, center_y)
@@ -125,5 +131,4 @@ def make_minhull_list(length, center=(0,0),height=500):
             p = create_point(center_x+1, center_y+height-1)
         list.append(p)
     return list
-
 
