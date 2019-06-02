@@ -46,7 +46,8 @@ You can find thorough explanations of the results in the following research pape
 Below are links to interactive plot.ly graphs. To my knowledge, these links should work
 on all browsers except FireFox.
 
-<a href="https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Random%20Hull.html" target="_blank">Link to Random Hull Plot.ly Graph</a>  
-<a href="https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Min%20Hull.html" target="_blank">Link to Min Hull Plot.ly Graph</a>  
-<a href="https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Max%20Hull.html" target="_blank">Link to Max Hull Plot.ly Graph</a>  
+[![Random Hull Graph](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/Images/Random%20Points%20Graph.JPG)](https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Random%20Hull.html "Random Hull Graph")
 
+[![Min Hull Graph](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/Images/Min%20Hull%20Graph.JPG)](https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Min%20Hull.html "Random Hull Graph")
+
+[![Max Hull Graph](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/Images/All%20Hull%20Points%20Graph.JPG)](https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Max%20Hull.html "Random Hull Graph")
