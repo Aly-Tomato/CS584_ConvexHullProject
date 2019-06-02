@@ -43,11 +43,15 @@ $ ./PointGenerator.exe
 ### Results:
 You can find thorough explanations of the results in the following research paper  
 [Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms](https://docs.google.com/document/d/1VC5qr3sTwCX5O1JSbs-Pjc_GJwBJu5wLoYspDSl8EPg/edit?usp=sharing).  
-Below are links to interactive plot.ly graphs. To my knowledge, these links should work
+Below are image links to interactive plot.ly graphs. To my knowledge, these links should work
 on all browsers except FireFox.
-
+  
 [![Random Hull Graph](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/Images/Random%20Points%20Graph.JPG)](https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Random%20Hull.html "Random Hull Graph")
-
+  
+  
+  
 [![Min Hull Graph](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/Images/Min%20Hull%20Graph.JPG)](https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Min%20Hull.html "Random Hull Graph")
-
+  
+  
+  
 [![Max Hull Graph](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/Images/All%20Hull%20Points%20Graph.JPG)](https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Max%20Hull.html "Random Hull Graph")
