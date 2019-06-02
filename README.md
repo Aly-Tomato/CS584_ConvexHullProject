@@ -1,4 +1,4 @@
-###Convex Hull Problem: An comparison of Jarvis March and Graham Scan Algorithms
+### Convex Hull Problem: An comparison of Jarvis March and Graham Scan Algorithms
 
 This project serves as a final project submission for Dan Leblanc's CS 584 
 Algorithm Design and Analysis class at Portland State University.
@@ -12,6 +12,8 @@ is unknown
 * A set of points where every point in on the hull in a circle
 
 ### Usage:
+
+##### Running the Test Suite
 ```
 Test Suite
 $ git clone https://github.com/Aly-Tomato/CS584_ConvexHullProject.git
@@ -19,7 +21,7 @@ $ cd CS584_ConvexHullProject
 $ python3 TestSuite.py
 ```
 
-### Running the Point Generator:
+##### Running the Point Generator:
 
 Once cloned you will have access to the Processing Applications folder
 which contains various executables. Find the executable for your specific
@@ -33,6 +35,12 @@ $ ./PointGenerator.exe
 
 
 ### Results:
+You can find thorough explanations of the results in the following research paper
+[Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms]().
 Below are clickable image links to interactive plot.ly graphs.
+
+![Random Hull Points](HTML Plot.ly Graphs/Convex Hull Random Hull.html)  
+![Min Hull Points](HTML Plot.ly Graphs/Convex Hull Min Hull.html)  
+![Max Hull Points](HTML Plot.ly Graphs/Convex Hull Max Hull.html)  
 
 
