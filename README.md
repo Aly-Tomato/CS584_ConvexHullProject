@@ -36,6 +36,8 @@ $cd Processing_Applications/application.linux64
 $ chmod +x PointGenerator.exe 
 $ ./PointGenerator.exe
 ```
+[![Point Genertor Example Run](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](http://youtu.be/lrnvb3jol0Q?hd=1 "Point Genertor Example Run")
+
 
 
 ### Results:
