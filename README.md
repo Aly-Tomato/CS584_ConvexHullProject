@@ -39,7 +39,7 @@ You can find thorough explanations of the results in the following research pape
 [Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms]().
 Below are clickable image links to interactive plot.ly graphs.
 
-![Random Hull Points]("https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML Plot.ly Graphs/Convex Hull Random Hull.html")  
-![Min Hull Points]("https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML Plot.ly Graphs/Convex Hull Min Hull.html")  
-![Max Hull Points]("https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML Plot.ly Graphs/Convex Hull Max Hull.html")  
+![Random Hull Points]("https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Random%20Hull.html")  
+![Min Hull Points]("https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Min%20Hull.html")  
+![Max Hull Points]("https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Max%20Hull.html")  
 
