@@ -29,7 +29,7 @@ $ python3 TestSuite.py
 
 Once cloned you will have access to the Processing Applications folder
 which contains various executables. Find the executable for your specific
-machine environment. Note that you'll need at least JAVA 7 to run these applications.
+machine environment. Note that you'll need at least JAVA 7 and Python 3 to run these applications.
 For example, if running on linux 64
 ```
 $ cd Processing_Applications/application.linux64
