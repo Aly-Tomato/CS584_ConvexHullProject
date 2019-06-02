@@ -41,7 +41,8 @@ $ ./PointGenerator.exe
 ### Results:
 You can find thorough explanations of the results in the following research paper  
 [Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms]("https://docs.google.com/document/d/1VC5qr3sTwCX5O1JSbs-Pjc_GJwBJu5wLoYspDSl8EPg/edit?usp=sharing").  
-Below are links to interactive plot.ly graphs.
+Below are links to interactive plot.ly graphs. To my knowledge, these links should work
+on all browsers except FireFox.
 
 [Link Random Hull Plot.ly Graph](https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Random%20Hull.html)  
 [Link Min Hull Plot.ly Graph](https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Min%20Hull.html)  
