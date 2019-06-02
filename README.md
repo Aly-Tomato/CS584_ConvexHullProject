@@ -1,4 +1,4 @@
-### Convex Hull Problem: An comparison of Jarvis March and Graham Scan Algorithms
+### Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms
 
 This project serves as a final project submission for Dan Leblanc's CS 584 
 Algorithm Design and Analysis class at Portland State University.
@@ -39,8 +39,7 @@ You can find thorough explanations of the results in the following research pape
 [Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms]().
 Below are clickable image links to interactive plot.ly graphs.
 
-![Random Hull Points](HTML Plot.ly Graphs/Convex Hull Random Hull.html)  
-![Min Hull Points](HTML Plot.ly Graphs/Convex Hull Min Hull.html)  
-![Max Hull Points](HTML Plot.ly Graphs/Convex Hull Max Hull.html)  
-
+![Random Hull Points]("https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML Plot.ly Graphs/Convex Hull Random Hull.html")  
+![Min Hull Points]("https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML Plot.ly Graphs/Convex Hull Min Hull.html")  
+![Max Hull Points]("https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML Plot.ly Graphs/Convex Hull Max Hull.html")  
 
