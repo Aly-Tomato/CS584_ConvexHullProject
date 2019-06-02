@@ -32,9 +32,9 @@ which contains various executables. Find the executable for your specific
 machine environment. Note that you'll need at least JAVA 7 to run these applications.
 For example, if running on linux 64
 ```
-$cd Processing_Applications/application.linux64
-$ chmod +x PointGenerator.exe 
-$ ./PointGenerator.exe
+$ cd Processing_Applications/application.linux64
+$ chmod +x PointGenerator
+$ ./PointGenerator
 ```
 [![Point Genertor Example Run](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/Images/VideoThumbnail.JPG)](http://youtu.be/lrnvb3jol0Q?hd=1 "Point Genertor Example Run")
 
