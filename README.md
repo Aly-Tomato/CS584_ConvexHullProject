@@ -14,6 +14,10 @@ is unknown
 ### Usage:
 
 ##### Running the Test Suite
+The test suite with run a total of 3,300 tests with various point sets 
+as default. Results will be stored in a csv file labeled ```test_results.csv``` upon completion.
+You can edit the total number of tests to run in ```TestSuite.py``` at the top of the file.
+Assuming a linux based terminal you may follow the instructions below to clone the project.
 ```
 Test Suite
 $ git clone https://github.com/Aly-Tomato/CS584_ConvexHullProject.git
@@ -35,11 +39,11 @@ $ ./PointGenerator.exe
 
 
 ### Results:
-You can find thorough explanations of the results in the following research paper
-[Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms]().
-Below are clickable image links to interactive plot.ly graphs.
+You can find thorough explanations of the results in the following research paper  
+[Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms]("https://docs.google.com/document/d/1VC5qr3sTwCX5O1JSbs-Pjc_GJwBJu5wLoYspDSl8EPg/edit?usp=sharing").  
+Below are links to interactive plot.ly graphs.
 
-![Random Hull Points]("Images/Random Points Graph.JPG")  
-![Min Hull Points]("Images/Min Hull Graph.JPG")  
-![Max Hull Points]("Images/All Hull Points Graph.JPG")  
+[Link Random Hull Plot.ly Graph]("https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Random%20Hull.html")  
+[Link Min Hull Plot.ly Graph]("https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Min%20Hull.html")  
+[Link Max Hull Plot.ly Graph]("https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Max%20Hull.html")  
 
