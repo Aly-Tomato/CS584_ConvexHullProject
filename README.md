@@ -36,6 +36,7 @@ $ cd Processing_Applications/application.linux64
 $ chmod +x PointGenerator
 $ ./PointGenerator
 ```
+An example of how to use the Point Generator can be viewed on Youtube below.
 [![Point Genertor Example Run](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/Images/VideoThumbnail.JPG)](http://youtu.be/lrnvb3jol0Q?hd=1 "Point Genertor Example Run")
 
 
