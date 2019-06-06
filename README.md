@@ -42,7 +42,7 @@ $ ./PointGenerator
 
 ### Results:
 You can find thorough explanations of the results in the following research paper  
-[Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms](https://docs.google.com/document/d/1VC5qr3sTwCX5O1JSbs-Pjc_GJwBJu5wLoYspDSl8EPg/edit?usp=sharing).  
+[Convex Hull Problem: A Comparison of Jarvis March and Graham Scan Algorithms](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/CS%20584%20Final%20Project%20Paper%20-%20ATamayo.pdf).  
 Below are image links to interactive plot.ly graphs. To my knowledge, these links should work
 on all browsers except FireFox.
 
