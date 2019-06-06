@@ -58,3 +58,8 @@ on all browsers except FireFox.
 ---  
   
 [![Max Hull Graph](https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/Images/All%20Hull%20Points%20Graph.JPG)](https://htmlpreview.github.io/?https://github.com/Aly-Tomato/CS584_ConvexHullProject/blob/master/HTML%20Plot.ly%20Graphs/Convex%20Hull%20Max%20Hull.html "Random Hull Graph")
+
+### I am grateful for the following tools that contributed to this project:  
+* [Py.Processing](https://py.processing.org/)
+* [Plot.ly Chart Studio](https://plot.ly/create/)
+* [Screencast-o-matic Screen Recorder](https://screencast-o-matic.com/screen-recorder)
